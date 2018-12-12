@@ -18,5 +18,5 @@
         ---輸出按鈕: 按下後執行先前所點擊之所有效果(按點擊順序執行)，並輸出結果
 
 ## 效果：
-![](https://i.imgur.com/Wi7iOXu.gif =250x)
+![](https://i.imgur.com/Wi7iOXu.gif)
 
