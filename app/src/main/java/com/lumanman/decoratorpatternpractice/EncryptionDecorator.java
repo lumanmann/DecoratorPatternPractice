@@ -16,7 +16,7 @@ public class EncryptionDecorator extends Decorator {
         for (char c: tmpArray) {
             int tmpNum = (int)c;
             tmpNum = tmpNum % 17 + 65;
-            tmp += Integer.toString(tmpNum);
+            tmp += (char)tmpNum;
         }
         return tmp;
     }
